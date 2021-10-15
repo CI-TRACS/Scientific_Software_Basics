@@ -1,7 +1,17 @@
-# FIXME Lesson title
+# Scientific Software Basics
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+* Introduction to using the Linux command line by connecting to Mana with Open On Demand.
 
+* Introduction to using the git command line with GitHub.
+
+* Introduction to using GitHub pages for sharing your science.
+---
+
+**Learning Outcomes:** Demonstrate the ability to navigate Linux environments and use git command line, GitHub and GitHub Pages.
+
+**CI Tools:** Open on Demand, git, GitHub and GitHub Pages. 
+ 
+---
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
 ## Contributing
@@ -24,9 +34,7 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are 
 
-* FIXME
-* FIXME
-* FIXME
+* Ron Merrill
 
 
 ## Authors
