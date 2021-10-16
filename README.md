@@ -7,7 +7,7 @@
 * Introduction to using GitHub pages for sharing your science.
 ---
 
-**Learning Outcomes:** Demonstrate the ability to navigate Linux environments and use git command line, GitHub and GitHub Pages.
+**Learning Outcomes:** Demonstrate the ability to navigate Linux environments, data transfer, and use git command line, GitHub and GitHub Pages.
 
 **CI Tools:** Open on Demand, git, GitHub and GitHub Pages. 
  
@@ -35,6 +35,7 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 Current maintainers of this lesson are 
 
 * Ron Merrill
+* Moseli Motsoehli
 
 
 ## Authors
