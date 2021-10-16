@@ -7,9 +7,17 @@
 * Introduction to using GitHub pages for sharing your science.
 ---
 
-**Learning Outcomes:** Demonstrate the ability to navigate Linux environments, data transfer, and use git command line, GitHub and GitHub Pages.
+**Learning Outcomes:** 
 
-**CI Tools:** Open on Demand, git, GitHub and GitHub Pages. 
+* Demonstrate the ability to navigate Linux environments
+* data transfer,  git command line 
+* GitHub and GitHub Pages.
+
+**CI Tools:** 
+
+* Open on Demand
+* git, GitHub
+* GitHub Pages. 
  
 ---
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
