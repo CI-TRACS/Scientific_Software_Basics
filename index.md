@@ -11,10 +11,10 @@ Attendees will learn how to use the Unix command line for navigating Linux envir
 
 > ## Prerequisites
 >
-> Have an account on Mana 
-> Have UH Duo/MFA enabled
-> Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
-> Have a GitHub account
+> * Have an account on Mana 
+> * Have UH Duo/MFA enabled
+> * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
+> * Have a GitHub account
 {: .prereq}
 
 By the end of this workshop attendees will be able to: 
