@@ -15,9 +15,8 @@ Attendees will learn how to use the Unix command line for navigating Linux envir
 > * Have UH Duo/MFA enabled
 > * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
 > * Have a GitHub account
-
-
-{: .prereq}
+> 
+> {: .prereq}
 
 By the end of this workshop attendees will be able to: 
 
