@@ -355,14 +355,8 @@ but not yet committed.
 > However, it's almost always better to
 > explicitly add things to the staging area, because you might
 > commit changes you forgot you made. (Going back to the group photo simile,
-> you might get an extra with incomplete makeup walking on
-> the stage for the picture because you used `-a`!)
-> Try to stage things manually,
-> or you might find yourself searching for "git undo commit" more
-> than you would like!
 {: .callout}
 
-![The Git Staging Area](../fig/git-staging-area.svg)
 
 Let's watch as our changes to a file move from our editor
 to the staging area
