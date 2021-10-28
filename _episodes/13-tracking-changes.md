@@ -357,7 +357,6 @@ but not yet committed.
 > commit changes you forgot you made. (Going back to the group photo simile,
 {: .callout}
 
-
 Let's watch as our changes to a file move from our editor
 to the staging area
 and into long-term storage.
