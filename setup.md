@@ -4,31 +4,32 @@ title: Setup
 root: .
 ---
 
-## Setting up for the workshop!
-You need to download some files to follow this lesson.
+## Lets get start!
+You should have the following...
 * Have an account on Mana
 * Have UH Duo/MFA enabled
 * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
 * Have a GitHub account
 
 1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
-4. You should get the UH gold screen and then login with your user name and password. 
+2. You should get the UH gold screen and then login with your user name and password. 
  
 ![su_fig1](fig/gold_screen_crop.png)
 
-6. Authenticate with MFA/DUO via your preferred method.
+3. Authenticate with MFA/DUO via your preferred method.
 
-7. You should see the Mana Open OnDemand start page
+4. You should see the Mana Open OnDemand start page
 
 ![su_fig2](fig/mana_ood.png)
 
-Start an interactive session
+5. Start an interactive session
+
 ![su_fig3](fig/select_desktop.png)
 ![su_fig4](fig/check_ignition.png)
 ![su_fig5](fig/waiting_for_a_session.png)
 ![su_fig6](fig/my_interactive_session.png)
 
-Start are shell...
+6. Start a shell...
 ![su_fig7](fig/are_you_sure.png)
 
 The authenticity of host 'gpu-0016.hpc.ci.its.hawaii.edu (10.100.11.214)' can't be established.
