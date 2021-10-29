@@ -13,8 +13,10 @@ You need to download some files to follow this lesson.
 
 1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
 4. You should get the UH gold screen and then login with your user name and password.
-5. Authenticate with MFA/DUO via your preferred method.
-6. You should see the Mana Open OnDemand start page
+(../fig/gold_screen.png)
+
+6. Authenticate with MFA/DUO via your preferred method.
+7. You should see the Mana Open OnDemand start page
 
 Start an interactive session
 
