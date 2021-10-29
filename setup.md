@@ -11,10 +11,10 @@ You need to download some files to follow this lesson.
 * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
 * Have a GitHub account
 
-1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [https://mana.its.hawaii.edu] https://mana.its.hawaii.edu
-2. You should get the UH gold screen and then login with your user name and password.
-3. Authenticate with MFA/DUO via your preferred method.
-4. You should see the Mana Open OnDemand start page
+1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [https://mana.its.hawaii.edu] https://mana.its.hawaii.edu] https://mana.its.hawaii.edu] https://mana.its.hawaii.edu
+4. You should get the UH gold screen and then login with your user name and password.
+5. Authenticate with MFA/DUO via your preferred method.
+6. You should see the Mana Open OnDemand start page
 
 Start an interactive session
 
