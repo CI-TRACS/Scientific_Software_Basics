@@ -13,19 +13,19 @@ You should have the following...
 
 
 ## Connect to Mana through Open OnDemand
-1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
-2. You should get the UH gold screen and then login with your user name and password. 
+Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
+You should get the UH gold screen and then login with your user name and password. 
  
 ![su_fig1](fig/gold_screen_crop.png)
 
-3. Authenticate with MFA/DUO via your preferred method.
+Authenticate with MFA/DUO via your preferred method.
 
-4. You should see the Mana Open OnDemand start page
+You should see the Mana Open OnDemand start page
 
 ![su_fig2](fig/mana_ood.png)
 
 ## Launch an interactive session on a compute node
-5. Start an interactive session
+Start an interactive session
 
 ![su_fig3](fig/select_desktop.png)
 ![su_fig4](fig/check_ignition.png)
@@ -33,8 +33,8 @@ You should have the following...
 ![su_fig6](fig/my_interactive_session.png)
 
 ## Your compute node is assigned.
-6. Start a shell...
-7. 
+Start a shell...
+
 ![su_fig7](fig/are_you_sure.png)
 
 Answer
@@ -57,7 +57,7 @@ Change the terminal theme if you like.  You can do that anytime.
 
 ![su_fig10](fig/light_compute_node_login_prompt.png)
 
-1. Download [data-shell.zip] to your home directory.
+Download [data-shell.zip] to your home directory.
 
 wget https://ci-tracs.github.io/Scientific_Software_Basics/data/shell-lesson-data.zip
 
