@@ -4,13 +4,15 @@ title: Setup
 root: .
 ---
 
-## Lets get start!
+## Lets get started!
 You should have the following...
 * Have an account on Mana
 * Have UH Duo/MFA enabled
 * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
 * Have a GitHub account
 
+
+## Connect to Mana through Open OnDemand
 1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
 2. You should get the UH gold screen and then login with your user name and password. 
  
@@ -22,6 +24,7 @@ You should have the following...
 
 ![su_fig2](fig/mana_ood.png)
 
+## Launch an interactive session on a compute node
 5. Start an interactive session
 
 ![su_fig3](fig/select_desktop.png)
@@ -29,6 +32,7 @@ You should have the following...
 ![su_fig5](fig/waiting_for_a_session.png)
 ![su_fig6](fig/my_interactive_session.png)
 
+## You compute node is assigned.
 6. Start a shell...
 ![su_fig7](fig/are_you_sure.png)
 
