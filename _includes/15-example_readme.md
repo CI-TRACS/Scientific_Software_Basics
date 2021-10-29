@@ -1,3 +1,19 @@
+---
+title: Example Readme
+teaching: 15
+exercises: 0
+questions:
+- "What do I put in my read me file?"
+- "how do I include media in my readme"
+objectives:
+- "Understand the benefits of having a readme file"
+- "Understand how to make a descriptive readme file"
+
+keypoints:
+- "Read me files are the manual to your repo"
+- "Read me files enable other people to use and understand your work"
+---
+
 # Doortectron2
 
 [![](https://img.shields.io/badge/python-3.5%2B-green.svg)]()
