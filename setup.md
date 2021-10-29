@@ -47,9 +47,13 @@ Your connection to the remote server has been terminated.
 Go back to my interactive sessions in the browser and start another shell..
 
 ![su_fig8](fig/compute_node_login_prompt.png)
-![su_fig9](fig/terminal_themes_dropdown.png)
 
 Change the terminal theme if you like.  You can do that anytime.
+
+
+![su_fig9](fig/terminal_themes_dropdown.png)
+
+
 
 ![su_fig10](fig/light_compute_node_login_prompt.png)
 
