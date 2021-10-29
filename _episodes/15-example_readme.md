@@ -27,7 +27,7 @@ Detectron2 is a pytorch library form Facebook AI research (FAIR) that primarily 
 
 For annotating training data, I used the [vgg image annotator from oxford](http://www.robots.ox.ac.uk/~vgg/software/via/via.html).  You simply upload your images and start making polyline annotations that per image that eventually export in COCO format in a json file. you do not have to do all the annotating in one go for your dataset, you can save the json file and later upload it together with the images and pickup where you left off.
 
-![via preview](vgg.png)
+![via preview](fig/vgg.png)
 
 ### Dataset
 
@@ -265,7 +265,7 @@ for d in random.sample(dataset_dicts, r*c):
     i+=1
 plt.show()
 ```
-![prediction visualization](prediction.png)
+![prediction visualization](fig/prediction.png)
 
 ## Video predictions
 So my goal was to have this run live on my camera, but I have an issue I ddnt solve and kind of went on to other projects. I have detectron installed and running on a remote machine, on which I did all my training, but I couldnt figure out how envoke my local Webcam from my jupyter notebook thats running on a remote cluster. Also my local machine doesnt meet the minimum detectron requirements so I couldnt simply run my trained model locally.  
@@ -405,7 +405,7 @@ we have mAP results per object class in the dataset and the performance can and 
 ### Preview
 Click on the image to watch the video.
 
-[![watch the video](preview.png)](https://youtu.be/Ksqib9bJKCU)
+[![watch the video](fig/preview.png)](https://youtu.be/Ksqib9bJKCU)
 
 ### Credit
 * Most of the detectron training setup is from the official documentation and [examples](https://github.com/facebookresearch/detectron2/tree/master/projects) on detectron2's [git repo](https://github.com/facebookresearch/detectron2)
