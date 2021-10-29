@@ -11,7 +11,7 @@ You need to download some files to follow this lesson.
 * Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
 * Have a GitHub account
 
-1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [https://mana.its.hawaii.edu] https://mana.its.hawaii.edu] https://mana.its.hawaii.edu] https://mana.its.hawaii.edu
+1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu]][mana-ood]
 4. You should get the UH gold screen and then login with your user name and password.
 5. Authenticate with MFA/DUO via your preferred method.
 6. You should see the Mana Open OnDemand start page
@@ -131,6 +131,7 @@ you can run it by opening a terminal and typing `bash`.
 </div>
 
 [zip-file]: {{ page.root }}/data/shell-lesson-data.zip
+[mana-ood]: https://mana.its.hawaii.edu
 [wsl]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 [mac-terminal]: http://www.macworld.co.uk/feature/mac-software/how-use-terminal-on-mac-3608274/
 [gnome-terminal]: https://help.gnome.org/users/gnome-terminal/stable/
