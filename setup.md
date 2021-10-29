@@ -32,14 +32,10 @@ You should have the following...
 ![su_fig5](fig/waiting_for_a_session.png)
 ![su_fig6](fig/my_interactive_session.png)
 
-## You compute node is assigned.
+## Your compute node is assigned.
 6. Start a shell...
+7. 
 ![su_fig7](fig/are_you_sure.png)
-
-The authenticity of host 'gpu-0016.hpc.ci.its.hawaii.edu (10.100.11.214)' can't be established.
-ECDSA key fingerprint is SHA256:YKU34+3iBdCzB/tzvkzAnlF+X0da4fVJqWgGG8CVT8M.
-ECDSA key fingerprint is MD5:6a:2b:b3:ab:12:8f:c0:5e:36:10:2c:25:5d:16:37:7a.
-Are you sure you want to continue connecting (yes/no)?                                           
 
 Answer
 	yes
@@ -49,6 +45,7 @@ Authentication failed.
 Your connection to the remote server has been terminated.
 
 Go back to my interactive sessions in the browser and start another shell..
+
 ![su_fig8](fig/compute_node_login_prompt.png)
 ![su_fig9](fig/terminal_themes_dropdown.png)
 
@@ -62,13 +59,3 @@ wget https://ci-tracs.github.io/Scientific_Software_Basics/data/shell-lesson-dat
 
 unzip shell-lesson-data.zip
 
-
-
-[zip-file]: {{ page.root }}/data/shell-lesson-data.zip
-[mana-ood]: https://mana.its.hawaii.edu
-[wsl]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
-[mac-terminal]: http://www.macworld.co.uk/feature/mac-software/how-use-terminal-on-mac-3608274/
-[gnome-terminal]: https://help.gnome.org/users/gnome-terminal/stable/
-[kde-konsole]: https://konsole.kde.org/
-[xterm]: https://en.wikipedia.org/wiki/Xterm
-[install_shell]: https://carpentries.github.io/workshop-template/#shell
