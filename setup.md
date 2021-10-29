@@ -14,14 +14,22 @@ You need to download some files to follow this lesson.
 1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
 4. You should get the UH gold screen and then login with your user name and password. 
  
-![bar](fig/gold_screen.png)
+![su_fig1](fig/gold_screen_crop.png)
 
 6. Authenticate with MFA/DUO via your preferred method.
+
 7. You should see the Mana Open OnDemand start page
 
+![su_fig2](fig/mana_ood.png)
+
 Start an interactive session
+![su_fig3](fig/select_desktop.png)
+![su_fig4](fig/check_ignition.png)
+![su_fig5](fig/waiting_for_a_session.png)
+![su_fig6](fig/my_interactive_session.png)
 
 Start are shell...
+![su_fig7](fig/are_you_sure.png)
 
 The authenticity of host 'gpu-0016.hpc.ci.its.hawaii.edu (10.100.11.214)' can't be established.
 ECDSA key fingerprint is SHA256:YKU34+3iBdCzB/tzvkzAnlF+X0da4fVJqWgGG8CVT8M.
@@ -36,12 +44,19 @@ Authentication failed.
 Your connection to the remote server has been terminated.
 
 Go back to my interactive sessions in the browser and start another shell..
+![su_fig8](fig/compute_node_login_prompt.png)
+![su_fig9](fig/terminal_themes_dropdown.png)
 
 Change the terminal theme if you like.  You can do that anytime.
 
-1. Download [data-shell.zip]({{ page.root }}/data/data-shell.zip) and move the file to your Desktop.
+![su_fig10](fig/light_compute_node_login_prompt.png)
 
-wget {{ page.root }}/data/shell-lesson-data.zip
+1. Download [data-shell.zip] to your home directory.
+
+wget https://ci-tracs.github.io/Scientific_Software_Basics/data/shell-lesson-data.zip
+
+unzip shell-lesson-data.zip
+
 
 
 [zip-file]: {{ page.root }}/data/shell-lesson-data.zip
