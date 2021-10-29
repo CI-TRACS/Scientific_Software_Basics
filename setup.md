@@ -13,8 +13,6 @@ You need to download some files to follow this lesson.
 
 1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
 4. You should get the UH gold screen and then login with your user name and password. 
-
-![foo](./fig/filesystem.svg)
  
 ![bar](fig/gold_screen.png)
 
@@ -41,7 +39,9 @@ Go back to my interactive sessions in the browser and start another shell..
 
 Change the terminal theme if you like.  You can do that anytime.
 
+1. Download [data-shell.zip]({{ page.root }}/data/data-shell.zip) and move the file to your Desktop.
 
+wget {{ page.root }}/data/shell-lesson-data.zip
 
 
 [zip-file]: {{ page.root }}/data/shell-lesson-data.zip
