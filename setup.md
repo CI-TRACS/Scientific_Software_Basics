@@ -4,10 +4,39 @@ title: Setup
 root: .
 ---
 
-## Download files
+## Setting up for the workshop!
 You need to download some files to follow this lesson.
+* Have an account on Mana
+* Have UH Duo/MFA enabled
+* Be able to connect to the workshop in Zoom and Mana Open OnDemand via a web browser
+* Have a GitHub account
 
-1. Download [shell-lesson-data.zip][zip-file] and move the file to your Desktop.
+1. Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [https://mana.its.hawaii.edu] https://mana.its.hawaii.edu
+2. You should get the UH gold screen and then login with your user name and password.
+3. Authenticate with MFA/DUO via your preferred method.
+4. You should see the Mana Open OnDemand start page
+
+Start an interactive session
+
+Start are shell...
+
+The authenticity of host 'gpu-0016.hpc.ci.its.hawaii.edu (10.100.11.214)' can't be established.
+ECDSA key fingerprint is SHA256:YKU34+3iBdCzB/tzvkzAnlF+X0da4fVJqWgGG8CVT8M.
+ECDSA key fingerprint is MD5:6a:2b:b3:ab:12:8f:c0:5e:36:10:2c:25:5d:16:37:7a.
+Are you sure you want to continue connecting (yes/no)?                                           
+
+Answer
+	yes
+
+Warning: Permanently added 'gpu-0016.hpc.ci.its.hawaii.edu,10.100.11.214' (ECDSA) to the list of known hosts.
+Authentication failed.
+Your connection to the remote server has been terminated.
+
+Go back to my interactive sessions in the browser and start another shell..
+
+Change the terminal theme if you like.  You can do that anytime.
+
+
 2. Unzip/extract the file.
    **Let your instructor know if you need help with this step**.
    You should end up with a new folder called **`shell-lesson-data`** on your Desktop.
