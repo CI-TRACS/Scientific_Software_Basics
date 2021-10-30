@@ -60,12 +60,12 @@ Change the terminal theme if you like.  You can do that anytime.
 
 ![su_fig10](fig/light_compute_node_login_prompt.png)
 
-Download [data-shell.zip] to your home directory.
+Download data-shell.zip to your home directory.
 
 wget https://ci-tracs.github.io/Scientific_Software_Basics/data/data-shell.zip
 
 unzip data-shell.zip
 
 [mana-ood]: https://mana.its.hawaii.edu
-[zip-file]: {{ page.root }}/data/data-shell.zip
+
 
