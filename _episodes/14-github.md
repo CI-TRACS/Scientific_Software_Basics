@@ -33,6 +33,8 @@ create a new repository called `planets`:
 
 Name your repository "planets" and then click "Create Repository".
 
+made a change
+
 Note: Since this repository will be connected to a local repository, it needs to be empty. Leave 
 "Initialize this repository with a README" unchecked, and keep "None" as options for both "Add 
 .gitignore" and "Add a license." See the "GitHub License and README files" exercise below for a full 
