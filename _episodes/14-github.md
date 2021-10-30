@@ -76,7 +76,7 @@ Click on the 'SSH' link to change the [protocol]({{ page.root }}{% link referenc
 
 ![Changing the Repository URL on GitHub](../fig/github-change-repo-string.png)
 
-Copy that URL from the browser, go into the local `planets` repository, and run
+Copy that URL from the browser, go into the local `ssb_test` repository, and run
 this command:
 
 ~~~
@@ -109,7 +109,7 @@ talking about how they might be used for collaboration.
 
 ## Push local changes to a remote
 
-Now that authentication is setup, we can return to the remote.  This command will push the changes from
+We can now return to the remote.  This command will push the changes from
 our local repository to the repository on GitHub:
 
 ~~~
@@ -117,18 +117,15 @@ $ git push origin main
 ~~~
 {: .language-bash}
 
-Since Dracula set up a passphrase, it will prompt him for it.  If you completed advanced settings for your authentication, it 
-will not prompt for a passphrase. 
-
 ~~~
-Enumerating objects: 16, done.
-Counting objects: 100% (16/16), done.
-Delta compression using up to 8 threads.
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads.
 Compressing objects: 100% (11/11), done.
-Writing objects: 100% (16/16), 1.45 KiB | 372.00 KiB/s, done.
+Writing objects: 100% (8/8), 1.45 KiB | 372.00 KiB/s, done.
 Total 16 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), done.
-To https://github.com/vlad/planets.git
+To https://github.com/DeepsMoseli/ssb_test.git
  * [new branch]      main -> main
 ~~~
 {: .output}
