@@ -13,7 +13,10 @@ You should have the following...
 
 
 ## Connect to Mana through Open OnDemand
-Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at [mana.its.hawaii.edu][mana-ood]
+Connect to Mana by pointing your browser (ChromeOS, Firefox or Safari) at 
+
+[mana.its.hawaii.edu][mana-ood]
+
 You should get the UH gold screen and then login with your user name and password. 
  
 ![su_fig1](fig/gold_screen_crop.png)
@@ -62,4 +65,6 @@ Download [data-shell.zip] to your home directory.
 wget https://ci-tracs.github.io/Scientific_Software_Basics/data/shell-lesson-data.zip
 
 unzip shell-lesson-data.zip
+
+[mana-ood]: https://mana.its.hawaii.edu
 
