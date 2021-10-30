@@ -66,7 +66,7 @@ identify it:
 
 Click on the 'SSH' link to change the [protocol]({{ page.root }}{% link reference.md %}#protocol) from HTTPS to SSH.
 
-> ## HTTPS vs. SSH
+> ## Using SSH
 >
 > We use SSH here because, while it requires some additional configuration, it is a 
 > security protocol widely used by many applications.  The steps below describe SSH at a 
@@ -90,6 +90,18 @@ difference should be your username instead of `vlad`.
 `origin` is a local name used to refer to the remote repository. It could be called
 anything, but `origin` is a convention that is often used by default in git
 and GitHub, so it's helpful to stick with this unless there's a reason not to.
+
+Using HTTPS
+
+~~~
+$ git clone https://github.com/DeepsMoseli/ssb_test.git
+~~~
+{: .language-bash}
+
+~~~
+Cloning into 'ssb_test'...                                                                                              remote: Enumerating objects: 6, done.                                                                                   remote: Counting objects: 100% (6/6), done.                                                                             remote: Compressing objects: 100% (3/3), done.                                                                          remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0                                                            Unpacking objects: 100% (6/6), 1.23 KiB | 3.00 KiB/s, done.
+~~~
+{: .output}
 
 We can check that the command has worked by running `git remote -v`:
 
@@ -118,11 +130,11 @@ $ git push origin main
 {: .language-bash}
 
 ~~~
-Enumerating objects: 8, done.
-Counting objects: 100% (8/8), done.
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (11/11), done.
-Writing objects: 100% (8/8), 1.45 KiB | 372.00 KiB/s, done.
+Writing objects: 100% (6/6), 1.45 KiB | 372.00 KiB/s, done.
 Total 16 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas: 100% (2/2), done.
 To https://github.com/DeepsMoseli/ssb_test.git
@@ -208,7 +220,7 @@ GitHub, though, this command would download them to our local repository.
 
 > ## GitHub GUI
 >
-> Browse to your `planets` repository on GitHub.
+> Browse to your `ssb_test.git` repository on GitHub.
 > Under the Code tab, find and click on the text that says "XX commits" (where "XX" is some number).
 > Hover over, and click on, the three buttons to the right of each commit.
 > What information can you gather/explore from these buttons?
