@@ -62,9 +62,9 @@ Change the terminal theme if you like.  You can do that anytime.
 
 Download [data-shell.zip] to your home directory.
 
-wget https://ci-tracs.github.io/Scientific_Software_Basics/data/shell-lesson-data.zip
+wget https://ci-tracs.github.io/Scientific_Software_Basics/data/data-shell.zip
 
-unzip shell-lesson-data.zip
+unzip data-shell.zip
 
 [mana-ood]: https://mana.its.hawaii.edu
 
