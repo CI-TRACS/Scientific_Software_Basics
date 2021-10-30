@@ -67,4 +67,5 @@ wget https://ci-tracs.github.io/Scientific_Software_Basics/data/data-shell.zip
 unzip data-shell.zip
 
 [mana-ood]: https://mana.its.hawaii.edu
+[zip-file]: {{ page.root }}/data/data-shell.zip
 
